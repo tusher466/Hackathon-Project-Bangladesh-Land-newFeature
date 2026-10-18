@@ -1,0 +1,6 @@
+{
+  "name": "BhumiSutra (ভূমিসূত্র) — Historical Land Record Lineage Platform",
+  "description": "Historical land-record lineage explorer for Bangladesh (CS, SA, RS, BS/BRS survey periods) with cross-survey matching, evidence discrepancy analysis, and interactive parcel lineage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
